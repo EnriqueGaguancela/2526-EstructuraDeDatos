@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Enrique_GP\\OneDrive - Universidad Estatal Amazónica\\III semestre\\Estructura de Datos (B)\\C#\\Semana_02\\Tarea_02\\Tarea_02.csproj",
-      "projectName": "Tarea_02",
-      "projectPath": "C:\\Users\\Enrique_GP\\OneDrive - Universidad Estatal Amazónica\\III semestre\\Estructura de Datos (B)\\C#\\Semana_02\\Tarea_02\\Tarea_02.csproj",
+      "projectUniqueName": "C:\\Users\\Enrique_GP\\OneDrive - Universidad Estatal Amazónica\\III semestre\\Estructura de Datos (B)\\C#\\Semana_02\\Semana_02.csproj",
+      "projectName": "Semana_02",
+      "projectPath": "C:\\Users\\Enrique_GP\\OneDrive - Universidad Estatal Amazónica\\III semestre\\Estructura de Datos (B)\\C#\\Semana_02\\Semana_02.csproj",
       "packagesPath": "C:\\Users\\Enrique_GP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Enrique_GP\\OneDrive - Universidad Estatal Amazónica\\III semestre\\Estructura de Datos (B)\\C#\\Semana_02\\Tarea_02\\obj\\",
+      "outputPath": "C:\\Users\\Enrique_GP\\OneDrive - Universidad Estatal Amazónica\\III semestre\\Estructura de Datos (B)\\C#\\Semana_02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Enrique_GP\\AppData\\Roaming\\NuGet\\NuGet.Config",
