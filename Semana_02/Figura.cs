@@ -1,8 +1,8 @@
 public abstract class Figura
 {
-    // Método abstracto para calcular el área que debe ser implementado por las clases derivadas
+    // Método abstracto para calcular el área.
     public abstract double CalcularArea();
 
-    // Método abstracto para calcular el perímetro que debe ser implementado por las clases derivadas
+    // Método abstracto para calcular el perímetro.
     public abstract double CalcularPerimetro();
 }
