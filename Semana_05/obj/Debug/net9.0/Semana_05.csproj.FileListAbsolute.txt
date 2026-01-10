@@ -1,0 +1,15 @@
+C:\Users\Enrique_GP\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_05\obj\Debug\net9.0\Semana_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enrique_GP\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_05\obj\Debug\net9.0\Semana_05.AssemblyInfoInputs.cache
+C:\Users\Enrique_GP\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_05\obj\Debug\net9.0\Semana_05.AssemblyInfo.cs
+C:\Users\Enrique_GP\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_05\obj\Debug\net9.0\Semana_05.csproj.CoreCompileInputs.cache
+C:\Users\Enrique_GP\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_05\obj\Debug\net9.0\Semana_05.sourcelink.json
+C:\Users\Enrique_GP\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_05\bin\Debug\net9.0\Semana_05.exe
+C:\Users\Enrique_GP\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_05\bin\Debug\net9.0\Semana_05.deps.json
+C:\Users\Enrique_GP\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_05\bin\Debug\net9.0\Semana_05.runtimeconfig.json
+C:\Users\Enrique_GP\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_05\bin\Debug\net9.0\Semana_05.dll
+C:\Users\Enrique_GP\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_05\bin\Debug\net9.0\Semana_05.pdb
+C:\Users\Enrique_GP\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_05\obj\Debug\net9.0\Semana_05.dll
+C:\Users\Enrique_GP\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_05\obj\Debug\net9.0\refint\Semana_05.dll
+C:\Users\Enrique_GP\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_05\obj\Debug\net9.0\Semana_05.pdb
+C:\Users\Enrique_GP\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_05\obj\Debug\net9.0\Semana_05.genruntimeconfig.cache
+C:\Users\Enrique_GP\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_05\obj\Debug\net9.0\ref\Semana_05.dll
