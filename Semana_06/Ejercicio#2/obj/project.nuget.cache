@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "27ufqnWCgM0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Enrique_GP\\OneDrive - Universidad Estatal Amazónica\\III semestre\\Estructura de Datos (B)\\C#\\Semana_06\\Ejercicio#2\\Ejercicio#2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Enrique_GP\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.11\\microsoft.netcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\Enrique_GP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.11\\microsoft.windowsdesktop.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\Enrique_GP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.11\\microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\Enrique_GP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.11\\microsoft.netcore.app.host.win-x64.9.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
