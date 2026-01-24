@@ -1,0 +1,15 @@
+C:\Users\Enrique\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_07\Ejercicio_1\obj\Debug\net10.0\Ejercicio_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enrique\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_07\Ejercicio_1\obj\Debug\net10.0\Ejercicio_1.AssemblyInfoInputs.cache
+C:\Users\Enrique\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_07\Ejercicio_1\obj\Debug\net10.0\Ejercicio_1.AssemblyInfo.cs
+C:\Users\Enrique\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_07\Ejercicio_1\obj\Debug\net10.0\Ejercicio_1.csproj.CoreCompileInputs.cache
+C:\Users\Enrique\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_07\Ejercicio_1\obj\Debug\net10.0\Ejercicio_1.sourcelink.json
+C:\Users\Enrique\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_07\Ejercicio_1\bin\Debug\net10.0\Ejercicio_1.exe
+C:\Users\Enrique\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_07\Ejercicio_1\bin\Debug\net10.0\Ejercicio_1.deps.json
+C:\Users\Enrique\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_07\Ejercicio_1\bin\Debug\net10.0\Ejercicio_1.runtimeconfig.json
+C:\Users\Enrique\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_07\Ejercicio_1\bin\Debug\net10.0\Ejercicio_1.dll
+C:\Users\Enrique\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_07\Ejercicio_1\bin\Debug\net10.0\Ejercicio_1.pdb
+C:\Users\Enrique\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_07\Ejercicio_1\obj\Debug\net10.0\Ejercicio_1.dll
+C:\Users\Enrique\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_07\Ejercicio_1\obj\Debug\net10.0\refint\Ejercicio_1.dll
+C:\Users\Enrique\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_07\Ejercicio_1\obj\Debug\net10.0\Ejercicio_1.pdb
+C:\Users\Enrique\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_07\Ejercicio_1\obj\Debug\net10.0\Ejercicio_1.genruntimeconfig.cache
+C:\Users\Enrique\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_07\Ejercicio_1\obj\Debug\net10.0\ref\Ejercicio_1.dll
