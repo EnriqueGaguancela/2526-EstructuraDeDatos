@@ -1,0 +1,15 @@
+C:\Users\Enrique Gaguancela\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_14\bin\Debug\net10.0\Semana_14.exe
+C:\Users\Enrique Gaguancela\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_14\bin\Debug\net10.0\Semana_14.deps.json
+C:\Users\Enrique Gaguancela\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_14\bin\Debug\net10.0\Semana_14.runtimeconfig.json
+C:\Users\Enrique Gaguancela\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_14\bin\Debug\net10.0\Semana_14.dll
+C:\Users\Enrique Gaguancela\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_14\bin\Debug\net10.0\Semana_14.pdb
+C:\Users\Enrique Gaguancela\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_14\obj\Debug\net10.0\Semana_14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enrique Gaguancela\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_14\obj\Debug\net10.0\Semana_14.AssemblyInfoInputs.cache
+C:\Users\Enrique Gaguancela\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_14\obj\Debug\net10.0\Semana_14.AssemblyInfo.cs
+C:\Users\Enrique Gaguancela\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_14\obj\Debug\net10.0\Semana_14.csproj.CoreCompileInputs.cache
+C:\Users\Enrique Gaguancela\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_14\obj\Debug\net10.0\Semana_14.sourcelink.json
+C:\Users\Enrique Gaguancela\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_14\obj\Debug\net10.0\Semana_14.dll
+C:\Users\Enrique Gaguancela\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_14\obj\Debug\net10.0\refint\Semana_14.dll
+C:\Users\Enrique Gaguancela\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_14\obj\Debug\net10.0\Semana_14.pdb
+C:\Users\Enrique Gaguancela\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_14\obj\Debug\net10.0\Semana_14.genruntimeconfig.cache
+C:\Users\Enrique Gaguancela\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\Semana_14\obj\Debug\net10.0\ref\Semana_14.dll
