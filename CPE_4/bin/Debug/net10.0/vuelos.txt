@@ -1,0 +1,7 @@
+Quito,Guayaquil,50
+Quito,Cuenca,70
+Guayaquil,Cuenca,40
+Guayaquil,Loja,100
+Cuenca,Loja,30
+Quito,Guayaquil,120
+Quito,Galápagos,750

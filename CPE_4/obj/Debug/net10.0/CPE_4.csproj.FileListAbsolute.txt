@@ -1,0 +1,15 @@
+C:\Users\Enrique\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\CPE_4\bin\Debug\net10.0\CPE_4.exe
+C:\Users\Enrique\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\CPE_4\bin\Debug\net10.0\CPE_4.deps.json
+C:\Users\Enrique\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\CPE_4\bin\Debug\net10.0\CPE_4.runtimeconfig.json
+C:\Users\Enrique\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\CPE_4\bin\Debug\net10.0\CPE_4.dll
+C:\Users\Enrique\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\CPE_4\bin\Debug\net10.0\CPE_4.pdb
+C:\Users\Enrique\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\CPE_4\obj\Debug\net10.0\CPE_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enrique\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\CPE_4\obj\Debug\net10.0\CPE_4.AssemblyInfoInputs.cache
+C:\Users\Enrique\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\CPE_4\obj\Debug\net10.0\CPE_4.AssemblyInfo.cs
+C:\Users\Enrique\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\CPE_4\obj\Debug\net10.0\CPE_4.csproj.CoreCompileInputs.cache
+C:\Users\Enrique\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\CPE_4\obj\Debug\net10.0\CPE_4.sourcelink.json
+C:\Users\Enrique\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\CPE_4\obj\Debug\net10.0\CPE_4.dll
+C:\Users\Enrique\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\CPE_4\obj\Debug\net10.0\refint\CPE_4.dll
+C:\Users\Enrique\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\CPE_4\obj\Debug\net10.0\CPE_4.pdb
+C:\Users\Enrique\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\CPE_4\obj\Debug\net10.0\CPE_4.genruntimeconfig.cache
+C:\Users\Enrique\OneDrive - Universidad Estatal Amazónica\III semestre\Estructura de Datos (B)\C#\CPE_4\obj\Debug\net10.0\ref\CPE_4.dll
